@@ -6,3 +6,8 @@ node_modules
 # CDK asset staging directory
 .cdk.staging
 cdk.out
+secrets
+
+!cfFunction.js
+!eslint.config.js
+package-lock.json

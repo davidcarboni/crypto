@@ -1,5 +1,5 @@
 {
-  "app": "npx ts-node --prefer-ts-exts bin/crypto.ts",
+  "app": "npx tsx bin/crypto.ts",
   "watch": {
     "include": [
       "**"
